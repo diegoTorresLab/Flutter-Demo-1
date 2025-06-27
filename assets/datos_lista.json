@@ -1,0 +1,9 @@
+[
+  {"icon": "mail", "title": "Correo"},
+  {"icon": "details", "title": "Nosotros"},
+  {"icon": "location_on", "title": "Dirección"},
+  {"icon": "account_circle", "title": "Perfil"},
+  {"icon": "settings", "title": "Configuración"},
+  {"icon": "info", "title": "Acerca de"},
+  {"icon": "help_outline", "title": "Ayuda"}
+]
